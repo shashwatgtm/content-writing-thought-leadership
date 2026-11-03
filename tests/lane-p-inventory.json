@@ -1,0 +1,33 @@
+{
+  "skills": [
+    {
+      "repo": "content-writing-thought-leadership",
+      "path": "SKILL.md",
+      "before_sha256": "5e9330efb1a973ed3eb300fbf9b87e74cd1780f8ed8f2df740375058c21e97dd",
+      "after_sha256": "52f9afe62ce9b6b85ab30f357ff9acfe13bdf84a862548a05b7b000be263b69c",
+      "frontmatter_sha256": "c88a5bb1f185ed4bbdfe558198dea9e02f7b4066102883ca503e8947b57200a8",
+      "reference_sha256": "48e5917aecb374a4dfd467a5a74a066c1061c275d6110cc51b36a4860fe0bd8e"
+    }
+  ],
+  "tools": {
+    "alpha": [
+      "gtm_consultation",
+      "epic_audit",
+      "generate_roadmap"
+    ],
+    "revenue": [
+      "account_plan_builder",
+      "deal_strategy_coach",
+      "discovery_question_bank",
+      "roi_business_case_builder",
+      "mutual_action_plan_generator",
+      "win_loss_analyzer",
+      "proposal_section_writer",
+      "email_sequence_generator",
+      "demo_script_builder",
+      "pricing_negotiation_guide",
+      "champion_enablement_kit",
+      "competitive_trap_setter"
+    ]
+  }
+}
