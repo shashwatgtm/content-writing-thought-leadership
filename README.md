@@ -2,7 +2,7 @@
 
 **B2B SaaS content writing with daily workflows, batching systems, and industry-specific templates across Sales Tech, HR Tech, Fintech, and Ops Tech.**
 
-Created by [Shashwat Ghosh](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo) - Founder of Helix GTM Consulting
+Created by [Shashwat Ghosh](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo) - Co-Founder and Fractional CMO, Helix GTM Consulting
 
 ---
 
@@ -511,15 +511,15 @@ with signature framework, regular posting schedule, and topic themes.
 ## 👨‍💼 Author
 
 **Shashwat Ghosh**  
-Founder, Helix GTM Consulting | Fractional CMO for B2B SaaS
+Co-Founder and Fractional CMO, Helix GTM Consulting (Bengaluru)
 
 ### Background:
 - Former CMO at FieldAssist (until Sept 2024)
 - Former VP Global Performance Marketing at Locus
-- 15+ years in B2B SaaS marketing and GTM strategy
+- 24+ years in B2B go-to-market; 10+ years fractional; 37+ client engagements
 - Top 30 Product-Led Growth (PLG) Creator Worldwide (Favikon verified)
 - #10 in India for Product Marketing on LinkedIn
-- Published: "Offbeat AI Watch" (GitHub), "GTM Whisperer" (Substack/LinkedIn)
+- Publishes: "Offbeat AI Watch" (gtmhelix.com/ai-trendwatch) and "GTM Whisperer" (gtmhelix.com/gtm-whisperer, Substack, LinkedIn)
 
 ### Content Creation Track Record:
 - 500+ LinkedIn posts (average engagement: 10K+ impressions)
@@ -531,7 +531,7 @@ Founder, Helix GTM Consulting | Fractional CMO for B2B SaaS
 ### Connect:
 - 🔗 LinkedIn: [linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo)
 - 🐦 X/Twitter: [@Shashwat_Ghosh](https://x.com/Shashwat_Ghosh)
-- 📧 Substack: [shashwatghosh.substack.com](https://shashwatghosh.substack.com)
+- 📧 Substack: [gtmexpert.substack.com](https://gtmexpert.substack.com)
 - 💻 GitHub: [@shashwatgtm](https://github.com/shashwatgtm)
 
 ### Other Skills:
