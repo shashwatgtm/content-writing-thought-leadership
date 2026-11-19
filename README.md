@@ -1,8 +1,8 @@
 # Content Writing & Thought Leadership
 
-**B2B SaaS content writing with daily workflows, batching systems, and industry-specific templates across Sales Tech, HR Tech, Fintech, and Ops Tech.**
+By Helix GTM Consulting (https://gtmhelix.com), built by [Shashwat Ghosh](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo), Co-Founder and Fractional CMO.
 
-Created by [Shashwat Ghosh](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo) - Co-Founder and Fractional CMO, Helix GTM Consulting
+**B2B SaaS content writing with daily workflows, batching systems, and industry-specific templates across Sales Tech, HR Tech, Fintech, and Ops Tech.**
 
 ---
 
